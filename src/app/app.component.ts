@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 
  interface Rocket {
   name: string;
-  rocket_description: string;
+  description: string;
   flickr_images:string;
   engine: string;
 }
